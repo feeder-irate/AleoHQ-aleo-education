@@ -23,3 +23,4 @@ Performance Pull Request Scalability Happiness is not something ready made. It c
 Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Multi-threading Version Control Database Indexing Blockchain Machine Learning To be the best, you must be able to handle the worst. Big Data Success doesn’t just find you. You have to go out and get it. Lambda Functions
 Virtual Machines Code Review Container Orchestration Database Neural Networks Stay hungry, stay foolish. Testing API Firewalls DevOps Success is how high you bounce when you hit bottom. Pull Request Kubernetes
 Virtual Machines If you can dream it, you can do it. Load Balancing Database Indexing Zero Downtime Deployment
+Event Sourcing Parallel Processing Python I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Serverless Algorithm Lambda Functions Data Science IoT

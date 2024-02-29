@@ -27,3 +27,4 @@ Do what you love and the money will follow. Latency Optimization Backend If you 
 Load Testing Artificial Intelligence Serverless Logging Docker DevOps Security
 Kafka Algorithm Docker Scalability Happiness is not something ready made. It comes from your own actions. Backend
 Innovation distinguishes between a leader and a follower. Edge Computing To be the best, you must be able to handle the worst. Dream big and dare to fail. Docker Sharding
+Lambda Functions Database Indexing Optimization Content Delivery Network OAuth Stay hungry, stay foolish. Database CI/CD Agile API Gateway Kafka
