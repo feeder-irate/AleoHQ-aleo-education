@@ -26,3 +26,4 @@ Pull Request Cloud If you can dream it, you can do it. Replica Set Security DNS 
 Do what you love and the money will follow. Latency Optimization Backend If you can dream it, you can do it. Replica Set Load Testing Event Sourcing Framework WebSockets
 Load Testing Artificial Intelligence Serverless Logging Docker DevOps Security
 Kafka Algorithm Docker Scalability Happiness is not something ready made. It comes from your own actions. Backend
+Innovation distinguishes between a leader and a follower. Edge Computing To be the best, you must be able to handle the worst. Dream big and dare to fail. Docker Sharding

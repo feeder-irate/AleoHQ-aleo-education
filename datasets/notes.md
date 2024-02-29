@@ -19,3 +19,4 @@ Innovation distinguishes between a leader and a follower. Docker Code Review Rea
 Frontend Event-driven Architecture JavaScript Simplicity is the ultimate sophistication. DNS Routing If you can dream it, you can do it. Kafka Big Data Great things never come from comfort zones. Act as if what you do makes a difference. It does. Machine Learning Performance Difficult roads often lead to beautiful destinations. A/B Testing WebSockets
 API Gateway Python Load Testing Content Delivery Network To be the best, you must be able to handle the worst. Deployment Cloud Functions OAuth Machine Learning Event Sourcing Event-driven Architecture Container Orchestration Cloud I find that the harder I work, the more luck I seem to have. Distributed Systems
 Lambda Functions Database Indexing Zero Downtime Deployment Neural Networks DNS Routing
+Docker Stay hungry, stay foolish. Kafka Python JavaScript Cloud Artificial Intelligence Edge Computing Containerization
