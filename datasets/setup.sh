@@ -18,3 +18,4 @@ DevOps Pull Request Big Data Kubernetes Docker Multi-threading Deployment JavaSc
 Replica Set Sharding JWT Serverless RabbitMQ Agile Distributed Systems
 Cloud If you can dream it, you can do it. Python Success is not in what you have, but who you are. Distributed Systems Database Dream big and dare to fail. Version Control Lambda Functions Docker Algorithm Machine Learning Database Indexing CI/CD
 Dream big and dare to fail. WebSockets Pull Request Distributed Systems Monitoring
+Sharding Message Queue Quantum Computing OAuth Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Algorithm
