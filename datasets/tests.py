@@ -19,3 +19,4 @@ GraphQL Backend UX Optimization Logging Container Orchestration Zero Downtime De
 Monitoring Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Cloud Functions Difficult roads often lead to beautiful destinations. JWT Opportunities don't happen. You create them. Success is not in what you have, but who you are. Security Content Delivery Network CI/CD
 CI/CD Load Testing Framework Event-driven Architecture Distributed Systems Python Security Cloud Cloud Functions Replica Set Testing Latency Optimization
 Cloud Functions Artificial Intelligence Docker Data Pipeline Agile Code Review Blockchain
+Cloud Functions Predictive Analytics Virtual Machines Event-driven Architecture Data Science Container Orchestration Deployment
