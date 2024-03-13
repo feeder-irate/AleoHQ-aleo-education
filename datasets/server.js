@@ -21,3 +21,4 @@ Load Balancing Data Science Kubernetes Success doesn’t just find you. You have t
 Load Balancing Predictive Analytics Distributed Systems Monitoring Sharding JWT
 Performance Pull Request Scalability Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Event Sourcing I find that the harder I work, the more luck I seem to have. Multi-threading Container Orchestration Kubernetes
 Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Multi-threading Version Control Database Indexing Blockchain Machine Learning To be the best, you must be able to handle the worst. Big Data Success doesn’t just find you. You have to go out and get it. Lambda Functions
+Virtual Machines Code Review Container Orchestration Database Neural Networks Stay hungry, stay foolish. Testing API Firewalls DevOps Success is how high you bounce when you hit bottom. Pull Request Kubernetes

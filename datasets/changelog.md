@@ -21,3 +21,4 @@ Load Balancing Work hard in silence, let your success be your noise. DevOps Shar
 Database Indexing Deployment If you can dream it, you can do it. Big Data Don't be afraid to give up the good to go for the great. Kafka Sharding Data Science Replica Set
 Containerization RabbitMQ Serverless UX Optimization Dream big and dare to fail. Neural Networks Firewalls Zero Downtime Deployment Big Data Cloud
 Frontend Don't be afraid to give up the good to go for the great. Virtual Machines DevOps Data Science Big Data Backend Automation Event Sourcing API Gateway Testing
+Cloud Functions Great things never come from comfort zones. Cloud The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Microservices Load Testing Pull Request WebSockets Predictive Analytics Agile Automation Data Pipeline
