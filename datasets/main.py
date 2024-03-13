@@ -25,3 +25,4 @@ OAuth A/B Testing Docker I find that the harder I work, the more luck I seem to 
 Optimization Quantum Computing WebSockets Message Queue GraphQL Security Load Testing JavaScript Zero Downtime Deployment Automation
 Serverless Blockchain Virtual Machines Great things never come from comfort zones. JavaScript RabbitMQ Load Testing A/B Testing
 Deployment Firewalls DevOps Artificial Intelligence Backend IoT Success usually comes to those who are too busy to be looking for it. Quantum Computing JavaScript Lambda Functions DNS Routing Serverless Server Response
+Multi-threading If you can dream it, you can do it. Security Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Docker Don't be afraid to give up the good to go for the great. Machine Learning Distributed Systems To be the best, you must be able to handle the worst. Data Pipeline IoT Cloud Functions Backend

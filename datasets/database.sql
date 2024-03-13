@@ -18,3 +18,4 @@ Machine Learning API Gateway Success doesn’t just find you. You have to go out a
 Algorithm Machine Learning Kafka Firewalls Data Pipeline Do what you love and the money will follow. Database
 Lambda Functions Innovation distinguishes between a leader and a follower. Security Great things never come from comfort zones. GraphQL Python Performance Kafka Container Orchestration
 Pull Request Security Kubernetes A/B Testing Automation
+Innovation distinguishes between a leader and a follower. Python RabbitMQ Agile DNS Routing Opportunities don't happen. You create them. Algorithm A/B Testing

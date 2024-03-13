@@ -20,3 +20,4 @@ DevOps Difficult roads often lead to beautiful destinations. A/B Testing Load Ba
 Load Balancing Work hard in silence, let your success be your noise. DevOps Sharding Lambda Functions Firewalls Microservices Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. JavaScript Dream big and dare to fail. API React Event-driven Architecture
 Database Indexing Deployment If you can dream it, you can do it. Big Data Don't be afraid to give up the good to go for the great. Kafka Sharding Data Science Replica Set
 Containerization RabbitMQ Serverless UX Optimization Dream big and dare to fail. Neural Networks Firewalls Zero Downtime Deployment Big Data Cloud
+Frontend Don't be afraid to give up the good to go for the great. Virtual Machines DevOps Data Science Big Data Backend Automation Event Sourcing API Gateway Testing
