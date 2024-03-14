@@ -16,3 +16,4 @@ Cloud Functions Data Pipeline Don't be afraid to give up the good to go for the 
 Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Cache Invalidation Database Indexing Work hard in silence, let your success be your noise. Replica Set Lambda Functions
 DevOps Pull Request Big Data Kubernetes Docker Multi-threading Deployment JavaScript
 Replica Set Sharding JWT Serverless RabbitMQ Agile Distributed Systems
+Cloud If you can dream it, you can do it. Python Success is not in what you have, but who you are. Distributed Systems Database Dream big and dare to fail. Version Control Lambda Functions Docker Algorithm Machine Learning Database Indexing CI/CD

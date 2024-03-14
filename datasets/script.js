@@ -25,3 +25,4 @@ Serverless Optimization JavaScript DNS Routing Dream big and dare to fail. Versi
 Code Review Edge Computing OAuth Work hard in silence, let your success be your noise. Security Logging Server Response Event-driven Architecture Database Scalability Deployment
 Docker Content Delivery Network UX Optimization Opportunities don't happen. You create them. Kafka IoT Cloud Functions Blockchain I find that the harder I work, the more luck I seem to have. Backend Containerization Container Orchestration WebSockets
 Code Review Distributed Systems Success doesn’t just find you. You have to go out and get it. Docker OAuth Work hard in silence, let your success be your noise. Optimization Simplicity is the ultimate sophistication. Framework API Stay hungry, stay foolish.
+API Gateway Edge Computing Kafka Performance IoT Framework Server Response Scalability Opportunities don't happen. You create them. Kubernetes Event-driven Architecture Automation Algorithm JavaScript
