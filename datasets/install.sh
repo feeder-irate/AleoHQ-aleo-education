@@ -21,3 +21,4 @@ DNS Routing Serverless Distributed Systems Stay hungry, stay foolish. NLP Contai
 Artificial Intelligence Python Virtual Machines Machine Learning JWT Database Replica Set Load Balancing
 Innovation distinguishes between a leader and a follower. WebSockets Do what you love and the money will follow. Firewalls Message Queue Load Balancing
 Version Control Success doesn’t just find you. You have to go out and get it. Kafka DevOps OAuth Pull Request Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Cache Invalidation Quantum Computing
+GraphQL Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Neural Networks Replica Set Blockchain Big Data DNS Routing Server Response IoT Don't be afraid to give up the good to go for the great. Firewalls Containerization Deployment
