@@ -17,3 +17,4 @@ I find that the harder I work, the more luck I seem to have. Predictive Analytic
 Machine Learning API Gateway Success doesn’t just find you. You have to go out and get it. Python Agile If you can dream it, you can do it. Multi-threading
 Algorithm Machine Learning Kafka Firewalls Data Pipeline Do what you love and the money will follow. Database
 Lambda Functions Innovation distinguishes between a leader and a follower. Security Great things never come from comfort zones. GraphQL Python Performance Kafka Container Orchestration
+Pull Request Security Kubernetes A/B Testing Automation
