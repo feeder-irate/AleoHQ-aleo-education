@@ -19,3 +19,4 @@ API Gateway Success doesn’t just find you. You have to go out and get it. Lambda
 Code Review Zero Downtime Deployment Server Response Cloud Innovation distinguishes between a leader and a follower. Content Delivery Network
 Load Balancing Data Science Kubernetes Success doesn’t just find you. You have to go out and get it. Server Response React OAuth A/B Testing Backend To be the best, you must be able to handle the worst. Security Work hard in silence, let your success be your noise.
 Load Balancing Predictive Analytics Distributed Systems Monitoring Sharding JWT
+Performance Pull Request Scalability Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Event Sourcing I find that the harder I work, the more luck I seem to have. Multi-threading Container Orchestration Kubernetes
