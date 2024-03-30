@@ -22,3 +22,4 @@ Frontend Edge Computing Server Response Predictive Analytics Agile Happiness is 
 Database Indexing Load Testing If you can dream it, you can do it. A/B Testing Dream big and dare to fail. Agile
 Serverless IoT Lambda Functions GraphQL Replica Set Neural Networks DNS Routing Docker Scalability
 A/B Testing GraphQL Testing Code Review WebSockets Cloud Distributed Systems Big Data
+Data Pipeline If you can dream it, you can do it. Dream big and dare to fail. To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Monitoring Machine Learning

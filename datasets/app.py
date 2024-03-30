@@ -21,3 +21,4 @@ Server Response Success usually comes to those who are too busy to be looking fo
 Framework Agile UX Optimization Replica Set Success is not in what you have, but who you are. Quantum Computing A/B Testing JavaScript Neural Networks Backend
 Serverless Deployment Kafka Optimization Replica Set IoT Blockchain Database Indexing RabbitMQ Quantum Computing Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Docker
 Serverless Neural Networks Cloud Functions Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Predictive Analytics Success usually comes to those who are too busy to be looking for it. Testing Difficult roads often lead to beautiful destinations. Data Science
+A/B Testing Success is how high you bounce when you hit bottom. NLP CI/CD Deployment
