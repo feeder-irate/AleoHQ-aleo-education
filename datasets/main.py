@@ -24,3 +24,4 @@ JavaScript Serverless Pull Request Testing Cache Invalidation Frontend Algorithm
 OAuth A/B Testing Docker I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Database Indexing
 Optimization Quantum Computing WebSockets Message Queue GraphQL Security Load Testing JavaScript Zero Downtime Deployment Automation
 Serverless Blockchain Virtual Machines Great things never come from comfort zones. JavaScript RabbitMQ Load Testing A/B Testing
+Deployment Firewalls DevOps Artificial Intelligence Backend IoT Success usually comes to those who are too busy to be looking for it. Quantum Computing JavaScript Lambda Functions DNS Routing Serverless Server Response

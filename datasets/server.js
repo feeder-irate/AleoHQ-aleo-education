@@ -18,3 +18,4 @@ Database Cache Invalidation Stay hungry, stay foolish. Firewalls Microservices C
 API Gateway Success doesn’t just find you. You have to go out and get it. Lambda Functions Simplicity is the ultimate sophistication. WebSockets Event Sourcing
 Code Review Zero Downtime Deployment Server Response Cloud Innovation distinguishes between a leader and a follower. Content Delivery Network
 Load Balancing Data Science Kubernetes Success doesn’t just find you. You have to go out and get it. Server Response React OAuth A/B Testing Backend To be the best, you must be able to handle the worst. Security Work hard in silence, let your success be your noise.
+Load Balancing Predictive Analytics Distributed Systems Monitoring Sharding JWT
