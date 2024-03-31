@@ -20,3 +20,4 @@ Latency Optimization Happiness is not something ready made. It comes from your o
 DNS Routing Serverless Distributed Systems Stay hungry, stay foolish. NLP Containerization
 Artificial Intelligence Python Virtual Machines Machine Learning JWT Database Replica Set Load Balancing
 Innovation distinguishes between a leader and a follower. WebSockets Do what you love and the money will follow. Firewalls Message Queue Load Balancing
+Version Control Success doesn’t just find you. You have to go out and get it. Kafka DevOps OAuth Pull Request Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Cache Invalidation Quantum Computing
