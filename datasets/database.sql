@@ -15,3 +15,4 @@ Act as if what you do makes a difference. It does. Distributed Systems Cloud Fun
 Scalability Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Microservices Dream big and dare to fail. Frontend JavaScript Lambda Functions
 I find that the harder I work, the more luck I seem to have. Predictive Analytics Cloud Frontend Machine Learning JavaScript Performance Docker Backend JWT To be the best, you must be able to handle the worst. Stay hungry, stay foolish.
 Machine Learning API Gateway Success doesn’t just find you. You have to go out and get it. Python Agile If you can dream it, you can do it. Multi-threading
+Algorithm Machine Learning Kafka Firewalls Data Pipeline Do what you love and the money will follow. Database
