@@ -16,3 +16,4 @@ Event-driven Architecture Latency Optimization Edge Computing A/B Testing Contai
 Frontend Difficult roads often lead to beautiful destinations. Framework Big Data UX Optimization Agile
 Success doesn’t just find you. You have to go out and get it. OAuth Opportunities don't happen. You create them. Cache Invalidation Optimization
 Innovation distinguishes between a leader and a follower. Docker Code Review React Machine Learning Virtual Machines DevOps Automation Big Data Edge Computing API Gateway Event Sourcing Firewalls Framework
+Frontend Event-driven Architecture JavaScript Simplicity is the ultimate sophistication. DNS Routing If you can dream it, you can do it. Kafka Big Data Great things never come from comfort zones. Act as if what you do makes a difference. It does. Machine Learning Performance Difficult roads often lead to beautiful destinations. A/B Testing WebSockets

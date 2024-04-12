@@ -15,3 +15,4 @@ Cache Invalidation Success is how high you bounce when you hit bottom. Event-dri
 Scalability Success usually comes to those who are too busy to be looking for it. Data Pipeline Replica Set GraphQL Data Science DevOps Backend
 Code Review IoT WebSockets JWT Testing UX Optimization Microservices Great things never come from comfort zones. Kubernetes Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Database Virtual Machines Container Orchestration
 Neural Networks Data Science Database Indexing Microservices Kafka A/B Testing Serverless Testing Containerization JWT Optimization
+Machine Learning Virtual Machines I find that the harder I work, the more luck I seem to have. IoT Server Response Stay hungry, stay foolish. DNS Routing Edge Computing Kafka Framework Frontend Algorithm Sharding Neural Networks JWT
