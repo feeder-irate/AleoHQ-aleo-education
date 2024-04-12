@@ -19,3 +19,4 @@ Virtual Machines DevOps Great things never come from comfort zones. Framework Ma
 Latency Optimization Happiness is not something ready made. It comes from your own actions. Automation Cloud Functions Optimization If you can dream it, you can do it.
 DNS Routing Serverless Distributed Systems Stay hungry, stay foolish. NLP Containerization
 Artificial Intelligence Python Virtual Machines Machine Learning JWT Database Replica Set Load Balancing
+Innovation distinguishes between a leader and a follower. WebSockets Do what you love and the money will follow. Firewalls Message Queue Load Balancing
