@@ -23,3 +23,4 @@ Deployment Lambda Functions Kubernetes Firewalls Machine Learning Load Testing S
 JavaScript Serverless Pull Request Testing Cache Invalidation Frontend Algorithm WebSockets Opportunities don't happen. You create them.
 OAuth A/B Testing Docker I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Database Indexing
 Optimization Quantum Computing WebSockets Message Queue GraphQL Security Load Testing JavaScript Zero Downtime Deployment Automation
+Serverless Blockchain Virtual Machines Great things never come from comfort zones. JavaScript RabbitMQ Load Testing A/B Testing
