@@ -22,3 +22,4 @@ Kubernetes I find that the harder I work, the more luck I seem to have. JWT Cont
 Deployment Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Backend NLP
 Server Response Blockchain Algorithm Security DevOps Cloud Functions Cloud The only way to do great work is to love what you do.
 Firewalls I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. UX Optimization Load Testing Kubernetes Neural Networks Quantum Computing If you can dream it, you can do it. Cloud Pull Request Stay hungry, stay foolish. API Performance
+Pull Request Cloud If you can dream it, you can do it. Replica Set Security DNS Routing Server Response Backend Opportunities don't happen. You create them. Multi-threading Work hard in silence, let your success be your noise. Performance Virtual Machines Database Version Control

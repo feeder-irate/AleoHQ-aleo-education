@@ -18,3 +18,4 @@ GraphQL Simplicity is the ultimate sophistication. Event Sourcing Deployment Sha
 Virtual Machines DevOps Great things never come from comfort zones. Framework Machine Learning Parallel Processing JWT Deployment
 Latency Optimization Happiness is not something ready made. It comes from your own actions. Automation Cloud Functions Optimization If you can dream it, you can do it.
 DNS Routing Serverless Distributed Systems Stay hungry, stay foolish. NLP Containerization
+Artificial Intelligence Python Virtual Machines Machine Learning JWT Database Replica Set Load Balancing
