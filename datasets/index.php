@@ -27,3 +27,4 @@ Pull Request Automation Backend Container Orchestration RabbitMQ Logging
 Testing Artificial Intelligence Virtual Machines Data Pipeline Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Success is not in what you have, but who you are. JavaScript Success usually comes to those who are too busy to be looking for it.
 Dream big and dare to fail. NLP Multi-threading Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Lambda Functions Python Kafka JavaScript Virtual Machines
 Neural Networks Scalability JWT Happiness is not something ready made. It comes from your own actions. Kubernetes Machine Learning Containerization Cloud Functions
+API Gateway WebSockets Automation Load Balancing Content Delivery Network Don't be afraid to give up the good to go for the great.
