@@ -21,3 +21,4 @@ Sharding GraphQL DNS Routing Success is not in what you have, but who you are. C
 Frontend Edge Computing Server Response Predictive Analytics Agile Happiness is not something ready made. It comes from your own actions. Kubernetes Latency Optimization I find that the harder I work, the more luck I seem to have. Container Orchestration
 Database Indexing Load Testing If you can dream it, you can do it. A/B Testing Dream big and dare to fail. Agile
 Serverless IoT Lambda Functions GraphQL Replica Set Neural Networks DNS Routing Docker Scalability
+A/B Testing GraphQL Testing Code Review WebSockets Cloud Distributed Systems Big Data

@@ -17,3 +17,4 @@ IoT Machine Learning Content Delivery Network Quantum Computing Success is how h
 Parallel Processing Blockchain Cloud Load Testing Load Balancing React Backend
 Data Science A/B Testing Containerization NLP Security Innovation distinguishes between a leader and a follower. Quantum Computing Version Control Server Response Database Indexing GraphQL Latency Optimization
 Artificial Intelligence Blockchain Cloud Parallel Processing Message Queue Backend Database Lambda Functions Event-driven Architecture
+Cloud Functions Kubernetes Predictive Analytics React Server Response Database Frontend Dream big and dare to fail. Distributed Systems Event-driven Architecture Code Review Cache Invalidation Artificial Intelligence GraphQL
