@@ -20,3 +20,4 @@ Microservices Database Indexing Virtual Machines Optimization Cloud Functions Si
 Success is not in what you have, but who you are. JavaScript Testing Server Response Latency Optimization RabbitMQ
 Lambda Functions Happiness is not something ready made. It comes from your own actions. Message Queue Success is not in what you have, but who you are. Pull Request
 Deployment Lambda Functions Kubernetes Firewalls Machine Learning Load Testing Serverless Event Sourcing Edge Computing OAuth Blockchain Big Data A/B Testing CI/CD Artificial Intelligence
+JavaScript Serverless Pull Request Testing Cache Invalidation Frontend Algorithm WebSockets Opportunities don't happen. You create them.
