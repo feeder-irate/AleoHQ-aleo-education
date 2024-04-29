@@ -18,3 +18,4 @@ Event Sourcing Docker Backend Database Database Indexing Python
 React Frontend Work hard in silence, let your success be your noise. Framework DevOps Virtual Machines WebSockets Success is not in what you have, but who you are. Scalability Success doesn’t just find you. You have to go out and get it. GraphQL Edge Computing
 Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Python Blockchain Predictive Analytics OAuth
 Server Response Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. UX Optimization Version Control Containerization Distributed Systems Kafka Framework Event-driven Architecture Algorithm Quantum Computing Success is not in what you have, but who you are. Pull Request
+Framework Agile UX Optimization Replica Set Success is not in what you have, but who you are. Quantum Computing A/B Testing JavaScript Neural Networks Backend
