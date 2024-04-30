@@ -19,3 +19,4 @@ DNS Routing JWT Backend GraphQL Version Control
 Microservices Database Indexing Virtual Machines Optimization Cloud Functions Simplicity is the ultimate sophistication. Version Control Big Data Innovation distinguishes between a leader and a follower. Automation Frontend Logging I find that the harder I work, the more luck I seem to have. Event Sourcing Scalability
 Success is not in what you have, but who you are. JavaScript Testing Server Response Latency Optimization RabbitMQ
 Lambda Functions Happiness is not something ready made. It comes from your own actions. Message Queue Success is not in what you have, but who you are. Pull Request
+Deployment Lambda Functions Kubernetes Firewalls Machine Learning Load Testing Serverless Event Sourcing Edge Computing OAuth Blockchain Big Data A/B Testing CI/CD Artificial Intelligence
