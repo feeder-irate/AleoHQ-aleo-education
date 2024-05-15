@@ -16,3 +16,4 @@ API NLP Code Review To be the best, you must be able to handle the worst. Succes
 Multi-threading Container Orchestration JWT Innovation distinguishes between a leader and a follower. DNS Routing Frontend UX Optimization Cloud Functions CI/CD
 Load Balancing Backend Latency Optimization Simplicity is the ultimate sophistication. API Gateway Content Delivery Network
 Optimization Database UX Optimization CI/CD Container Orchestration RabbitMQ
+DevOps Difficult roads often lead to beautiful destinations. A/B Testing Load Balancing Success doesn’t just find you. You have to go out and get it. WebSockets Docker Act as if what you do makes a difference. It does. Agile Cloud Functions Distributed Systems Automation

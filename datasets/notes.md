@@ -14,3 +14,4 @@ Great things never come from comfort zones. Automation Frontend UX Optimization 
 Load Testing Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Quantum Computing Cloud Security Kubernetes UX Optimization Work hard in silence, let your success be your noise. GraphQL NLP Container Orchestration WebSockets
 Event-driven Architecture Latency Optimization Edge Computing A/B Testing Container Orchestration Success is not in what you have, but who you are. Performance Code Review
 Frontend Difficult roads often lead to beautiful destinations. Framework Big Data UX Optimization Agile
+Success doesn’t just find you. You have to go out and get it. OAuth Opportunities don't happen. You create them. Cache Invalidation Optimization
