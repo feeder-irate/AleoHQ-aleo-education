@@ -15,3 +15,4 @@ GraphQL Success is how high you bounce when you hit bottom. Do what you love and
 A/B Testing Version Control Lambda Functions Security Performance Optimization Containerization Cache Invalidation Algorithm UX Optimization Difficult roads often lead to beautiful destinations.
 IoT Machine Learning Content Delivery Network Quantum Computing Success is how high you bounce when you hit bottom. Optimization If you can dream it, you can do it. Work hard in silence, let your success be your noise. JavaScript Kafka Innovation distinguishes between a leader and a follower.
 Parallel Processing Blockchain Cloud Load Testing Load Balancing React Backend
+Data Science A/B Testing Containerization NLP Security Innovation distinguishes between a leader and a follower. Quantum Computing Version Control Server Response Database Indexing GraphQL Latency Optimization
