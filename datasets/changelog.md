@@ -15,3 +15,4 @@ Event Sourcing Frontend Pull Request Serverless Load Testing Kafka If you can dr
 API NLP Code Review To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Kafka Latency Optimization Content Delivery Network Docker Performance DNS Routing
 Multi-threading Container Orchestration JWT Innovation distinguishes between a leader and a follower. DNS Routing Frontend UX Optimization Cloud Functions CI/CD
 Load Balancing Backend Latency Optimization Simplicity is the ultimate sophistication. API Gateway Content Delivery Network
+Optimization Database UX Optimization CI/CD Container Orchestration RabbitMQ
