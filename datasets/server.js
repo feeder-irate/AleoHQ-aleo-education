@@ -15,3 +15,4 @@ Containerization To be the best, you must be able to handle the worst. Opportuni
 Multi-threading Simplicity is the ultimate sophistication. Lambda Functions Cloud Functions Predictive Analytics Parallel Processing Blockchain
 OAuth Kubernetes Success doesn’t just find you. You have to go out and get it. Monitoring Algorithm NLP Edge Computing To be the best, you must be able to handle the worst. Replica Set Content Delivery Network WebSockets Artificial Intelligence Version Control UX Optimization Work hard in silence, let your success be your noise.
 Database Cache Invalidation Stay hungry, stay foolish. Firewalls Microservices Containerization Kafka Simplicity is the ultimate sophistication. Deployment Cloud Functions
+API Gateway Success doesn’t just find you. You have to go out and get it. Lambda Functions Simplicity is the ultimate sophistication. WebSockets Event Sourcing
