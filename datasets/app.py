@@ -15,3 +15,4 @@ Kubernetes Big Data Cache Invalidation Machine Learning A/B Testing Multi-thread
 Kafka Agile Zero Downtime Deployment Load Testing JavaScript Security Happiness is not something ready made. It comes from your own actions. Cloud Functions Work hard in silence, let your success be your noise. Serverless Replica Set GraphQL To be the best, you must be able to handle the worst.
 WebSockets Simplicity is the ultimate sophistication. Backend IoT Predictive Analytics
 Event Sourcing Docker Backend Database Database Indexing Python
+React Frontend Work hard in silence, let your success be your noise. Framework DevOps Virtual Machines WebSockets Success is not in what you have, but who you are. Scalability Success doesn’t just find you. You have to go out and get it. GraphQL Edge Computing
