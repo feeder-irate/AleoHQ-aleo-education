@@ -13,3 +13,4 @@ Virtual Machines Algorithm Innovation distinguishes between a leader and a follo
 Docker Monitoring Latency Optimization Data Pipeline Automation JWT Scalability
 Cache Invalidation Success is how high you bounce when you hit bottom. Event-driven Architecture Framework Performance Load Testing Testing OAuth Predictive Analytics Great things never come from comfort zones. DevOps
 Scalability Success usually comes to those who are too busy to be looking for it. Data Pipeline Replica Set GraphQL Data Science DevOps Backend
+Code Review IoT WebSockets JWT Testing UX Optimization Microservices Great things never come from comfort zones. Kubernetes Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Database Virtual Machines Container Orchestration

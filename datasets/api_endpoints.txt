@@ -16,3 +16,4 @@ Success is how high you bounce when you hit bottom. API Gateway React Performanc
 Docker Content Delivery Network Code Review Distributed Systems Big Data Automation Replica Set Work hard in silence, let your success be your noise. Machine Learning Monitoring
 Pull Request Framework Success usually comes to those who are too busy to be looking for it. Big Data A/B Testing Lambda Functions To be the best, you must be able to handle the worst. OAuth Docker Sharding Event Sourcing
 I find that the harder I work, the more luck I seem to have. Deployment Edge Computing If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Blockchain Cloud Docker Version Control Zero Downtime Deployment Backend
+Success is not in what you have, but who you are. If you can dream it, you can do it. Containerization Blockchain Firewalls Load Balancing React Scalability
