@@ -14,3 +14,4 @@ Firewalls I find that the harder I work, the more luck I seem to have. API Gatew
 Framework Deployment Data Pipeline Data Science Dream big and dare to fail. Predictive Analytics Python Multi-threading Success usually comes to those who are too busy to be looking for it. Code Review React Blockchain
 Cloud Functions Data Pipeline Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Docker Event-driven Architecture Great things never come from comfort zones. A/B Testing
 Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Cache Invalidation Database Indexing Work hard in silence, let your success be your noise. Replica Set Lambda Functions
+DevOps Pull Request Big Data Kubernetes Docker Multi-threading Deployment JavaScript
