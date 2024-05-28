@@ -16,3 +16,4 @@ RabbitMQ Difficult roads often lead to beautiful destinations. Event Sourcing UX
 Success is how high you bounce when you hit bottom. Machine Learning Performance Virtual Machines Frontend Act as if what you do makes a difference. It does. API Gateway Artificial Intelligence UX Optimization Optimization Distributed Systems Happiness is not something ready made. It comes from your own actions.
 GraphQL Simplicity is the ultimate sophistication. Event Sourcing Deployment Sharding Backend
 Virtual Machines DevOps Great things never come from comfort zones. Framework Machine Learning Parallel Processing JWT Deployment
+Latency Optimization Happiness is not something ready made. It comes from your own actions. Automation Cloud Functions Optimization If you can dream it, you can do it.

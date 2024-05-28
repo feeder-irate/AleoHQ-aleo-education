@@ -12,3 +12,4 @@ Machine Learning Multi-threading If you can dream it, you can do it. Opportuniti
 Zero Downtime Deployment Message Queue NLP Success is not in what you have, but who you are. Scalability Testing Event-driven Architecture DevOps Simplicity is the ultimate sophistication. If you can dream it, you can do it. Content Delivery Network Replica Set
 Lambda Functions Logging Algorithm API OAuth Version Control Success is how high you bounce when you hit bottom. Kubernetes Server Response
 Act as if what you do makes a difference. It does. Distributed Systems Cloud Functions Version Control Docker Load Balancing Scalability React Logging GraphQL Python Testing Deployment Containerization
+Scalability Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Microservices Dream big and dare to fail. Frontend JavaScript Lambda Functions
