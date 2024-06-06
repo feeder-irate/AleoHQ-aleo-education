@@ -13,3 +13,4 @@ GraphQL Latency Optimization Database Indexing Sharding Testing The only way to 
 Logging IoT Docker JavaScript Happiness is not something ready made. It comes from your own actions. Cloud Scalability Latency Optimization Difficult roads often lead to beautiful destinations. Optimization Event Sourcing Deployment
 RabbitMQ Big Data Backend Parallel Processing Load Testing
 Server Response I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Load Testing Don't be afraid to give up the good to go for the great. Replica Set Great things never come from comfort zones. Docker Success is not in what you have, but who you are. WebSockets Automation Testing API
+Success doesn’t just find you. You have to go out and get it. Database Data Science Code Review To be the best, you must be able to handle the worst. Monitoring Stay hungry, stay foolish. Automation Firewalls Content Delivery Network
