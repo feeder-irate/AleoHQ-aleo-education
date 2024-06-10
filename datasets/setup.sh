@@ -12,3 +12,4 @@ If you can dream it, you can do it. Automation Zero Downtime Deployment Pull Req
 If you can dream it, you can do it. OAuth Firewalls Containerization Stay hungry, stay foolish. Predictive Analytics Act as if what you do makes a difference. It does. Testing
 Firewalls I find that the harder I work, the more luck I seem to have. API Gateway OAuth Framework Monitoring Predictive Analytics Performance Database
 Framework Deployment Data Pipeline Data Science Dream big and dare to fail. Predictive Analytics Python Multi-threading Success usually comes to those who are too busy to be looking for it. Code Review React Blockchain
+Cloud Functions Data Pipeline Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Docker Event-driven Architecture Great things never come from comfort zones. A/B Testing
