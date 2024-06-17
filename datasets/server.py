@@ -12,3 +12,4 @@ Big Data Firewalls JWT Code Review Opportunities don't happen. You create them. 
 Dream big and dare to fail. A/B Testing Data Pipeline Message Queue Predictive Analytics Load Balancing Machine Learning
 UX Optimization Server Response Cache Invalidation OAuth Kubernetes Latency Optimization Machine Learning Message Queue
 GraphQL Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Message Queue Testing Docker
+A/B Testing Version Control Lambda Functions Security Performance Optimization Containerization Cache Invalidation Algorithm UX Optimization Difficult roads often lead to beautiful destinations.
