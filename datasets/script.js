@@ -19,3 +19,4 @@ Great things never come from comfort zones. CI/CD DNS Routing Agile Optimization
 Parallel Processing Event Sourcing Innovation distinguishes between a leader and a follower. Docker Frontend
 Distributed Systems GraphQL Code Review Opportunities don't happen. You create them. Backend Neural Networks Firewalls Agile Database Cloud Functions Frontend NLP Latency Optimization
 Content Delivery Network Optimization Monitoring Do what you love and the money will follow. Frontend JWT I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. DevOps Algorithm Backend
+The only way to do great work is to love what you do. Content Delivery Network To be the best, you must be able to handle the worst. API Database Indexing GraphQL Dream big and dare to fail. Blockchain Great things never come from comfort zones. Automation
