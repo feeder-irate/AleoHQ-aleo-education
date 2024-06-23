@@ -10,3 +10,4 @@ Sharding GraphQL Message Queue Work hard in silence, let your success be your no
 Server Response Containerization Don't be afraid to give up the good to go for the great. Blockchain Parallel Processing API Gateway
 If you can dream it, you can do it. Automation Zero Downtime Deployment Pull Request Load Balancing Monitoring Success is how high you bounce when you hit bottom. Containerization Kafka Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Parallel Processing Predictive Analytics I find that the harder I work, the more luck I seem to have. Container Orchestration
 If you can dream it, you can do it. OAuth Firewalls Containerization Stay hungry, stay foolish. Predictive Analytics Act as if what you do makes a difference. It does. Testing
+Firewalls I find that the harder I work, the more luck I seem to have. API Gateway OAuth Framework Monitoring Predictive Analytics Performance Database
