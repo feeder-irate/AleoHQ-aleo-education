@@ -11,3 +11,4 @@ Event-driven Architecture Load Balancing Edge Computing RabbitMQ Virtual Machine
 API DevOps Zero Downtime Deployment IoT Predictive Analytics Success usually comes to those who are too busy to be looking for it. Containerization Parallel Processing Event Sourcing Pull Request React Kubernetes
 GraphQL Latency Optimization Database Indexing Sharding Testing The only way to do great work is to love what you do. Agile NLP API Gateway Success usually comes to those who are too busy to be looking for it. Message Queue Dream big and dare to fail. Neural Networks
 Logging IoT Docker JavaScript Happiness is not something ready made. It comes from your own actions. Cloud Scalability Latency Optimization Difficult roads often lead to beautiful destinations. Optimization Event Sourcing Deployment
+RabbitMQ Big Data Backend Parallel Processing Load Testing

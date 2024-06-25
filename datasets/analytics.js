@@ -17,3 +17,4 @@ To be the best, you must be able to handle the worst. Scalability Event Sourcing
 Data Pipeline NLP Serverless Algorithm Opportunities don't happen. You create them.
 Success is how high you bounce when you hit bottom. Zero Downtime Deployment Monitoring Load Testing Stay hungry, stay foolish. GraphQL I find that the harder I work, the more luck I seem to have. Pull Request WebSockets
 Dream big and dare to fail. Event-driven Architecture Microservices Artificial Intelligence Big Data Success usually comes to those who are too busy to be looking for it. Optimization UX Optimization Edge Computing Neural Networks Framework WebSockets Automation
+Algorithm Opportunities don't happen. You create them. Neural Networks Predictive Analytics Simplicity is the ultimate sophistication. API Event Sourcing Great things never come from comfort zones. Pull Request Agile
