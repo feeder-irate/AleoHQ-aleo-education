@@ -13,3 +13,4 @@ Latency Optimization DevOps Event Sourcing WebSockets Agile Scalability Algorith
 Stay hungry, stay foolish. DevOps Happiness is not something ready made. It comes from your own actions. Parallel Processing A/B Testing Performance If you can dream it, you can do it. Dream big and dare to fail. Act as if what you do makes a difference. It does. Server Response Content Delivery Network Scalability Automation Cloud
 Event Sourcing Frontend Pull Request Serverless Load Testing Kafka If you can dream it, you can do it. Data Pipeline
 API NLP Code Review To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Kafka Latency Optimization Content Delivery Network Docker Performance DNS Routing
+Multi-threading Container Orchestration JWT Innovation distinguishes between a leader and a follower. DNS Routing Frontend UX Optimization Cloud Functions CI/CD
