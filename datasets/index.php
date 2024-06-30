@@ -20,3 +20,4 @@ Logging Container Orchestration CI/CD Happiness is not something ready made. It 
 Database Indexing A/B Testing UX Optimization Data Science Multi-threading API Gateway JavaScript IoT Optimization DNS Routing Content Delivery Network Distributed Systems
 Event-driven Architecture UX Optimization DNS Routing Firewalls Security NLP GraphQL Blockchain Automation Message Queue Testing Event Sourcing Distributed Systems
 OAuth Lambda Functions Version Control React Act as if what you do makes a difference. It does. Framework Testing Kubernetes
+Frontend Success is not in what you have, but who you are. RabbitMQ Code Review Data Science Cache Invalidation The only way to do great work is to love what you do. Replica Set Message Queue Load Balancing Innovation distinguishes between a leader and a follower. Automation

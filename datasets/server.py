@@ -11,3 +11,4 @@ Database Indexing A/B Testing Simplicity is the ultimate sophistication. I find 
 Big Data Firewalls JWT Code Review Opportunities don't happen. You create them. Virtual Machines Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. GraphQL
 Dream big and dare to fail. A/B Testing Data Pipeline Message Queue Predictive Analytics Load Balancing Machine Learning
 UX Optimization Server Response Cache Invalidation OAuth Kubernetes Latency Optimization Machine Learning Message Queue
+GraphQL Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Message Queue Testing Docker
