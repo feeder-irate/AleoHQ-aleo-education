@@ -17,3 +17,4 @@ Cloud Functions DNS Routing Do what you love and the money will follow. API Gate
 Great things never come from comfort zones. OAuth Framework Version Control Deployment
 Docker To be the best, you must be able to handle the worst. Distributed Systems API Gateway Cloud Success doesn’t just find you. You have to go out and get it. Version Control Performance Content Delivery Network Great things never come from comfort zones. Server Response Scalability Machine Learning UX Optimization Load Testing
 API Gateway Database Indexing Load Balancing Don't be afraid to give up the good to go for the great. OAuth Distributed Systems Cloud
+Sharding GraphQL DNS Routing Success is not in what you have, but who you are. Cloud Functions Neural Networks Distributed Systems Data Science Version Control

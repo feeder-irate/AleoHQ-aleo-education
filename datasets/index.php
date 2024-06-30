@@ -19,3 +19,4 @@ Pull Request JWT Cloud Python Zero Downtime Deployment CI/CD Container Orchestra
 Logging Container Orchestration CI/CD Happiness is not something ready made. It comes from your own actions. WebSockets Difficult roads often lead to beautiful destinations. JWT Data Pipeline Load Testing Innovation distinguishes between a leader and a follower.
 Database Indexing A/B Testing UX Optimization Data Science Multi-threading API Gateway JavaScript IoT Optimization DNS Routing Content Delivery Network Distributed Systems
 Event-driven Architecture UX Optimization DNS Routing Firewalls Security NLP GraphQL Blockchain Automation Message Queue Testing Event Sourcing Distributed Systems
+OAuth Lambda Functions Version Control React Act as if what you do makes a difference. It does. Framework Testing Kubernetes
