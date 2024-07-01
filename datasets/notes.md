@@ -9,3 +9,4 @@ Database Container Orchestration Act as if what you do makes a difference. It do
 Deployment Docker Machine Learning NLP CI/CD
 CI/CD To be the best, you must be able to handle the worst. WebSockets RabbitMQ Innovation distinguishes between a leader and a follower. Distributed Systems Do what you love and the money will follow.
 GraphQL Machine Learning Docker Algorithm Optimization Act as if what you do makes a difference. It does. Big Data Agile
+Replica Set Logging Parallel Processing Monitoring Difficult roads often lead to beautiful destinations.
