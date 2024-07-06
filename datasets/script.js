@@ -17,3 +17,4 @@ Data Science WebSockets Frontend If you can dream it, you can do it. Logging Dep
 JWT Server Response Latency Optimization To be the best, you must be able to handle the worst. Container Orchestration Message Queue Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment
 Great things never come from comfort zones. CI/CD DNS Routing Agile Optimization Framework
 Parallel Processing Event Sourcing Innovation distinguishes between a leader and a follower. Docker Frontend
+Distributed Systems GraphQL Code Review Opportunities don't happen. You create them. Backend Neural Networks Firewalls Agile Database Cloud Functions Frontend NLP Latency Optimization
