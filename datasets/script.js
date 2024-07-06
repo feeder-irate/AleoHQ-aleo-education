@@ -18,3 +18,4 @@ JWT Server Response Latency Optimization To be the best, you must be able to han
 Great things never come from comfort zones. CI/CD DNS Routing Agile Optimization Framework
 Parallel Processing Event Sourcing Innovation distinguishes between a leader and a follower. Docker Frontend
 Distributed Systems GraphQL Code Review Opportunities don't happen. You create them. Backend Neural Networks Firewalls Agile Database Cloud Functions Frontend NLP Latency Optimization
+Content Delivery Network Optimization Monitoring Do what you love and the money will follow. Frontend JWT I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. DevOps Algorithm Backend
