@@ -15,3 +15,4 @@ Security Firewalls Automation DevOps To be the best, you must be able to handle 
 Distributed Systems Sharding Data Pipeline Deployment Lambda Functions Simplicity is the ultimate sophistication. Agile Database Dream big and dare to fail. Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Neural Networks I find that the harder I work, the more luck I seem to have. Optimization GraphQL
 To be the best, you must be able to handle the worst. Scalability Event Sourcing Automation Optimization Big Data Content Delivery Network Logging
 Data Pipeline NLP Serverless Algorithm Opportunities don't happen. You create them.
+Success is how high you bounce when you hit bottom. Zero Downtime Deployment Monitoring Load Testing Stay hungry, stay foolish. GraphQL I find that the harder I work, the more luck I seem to have. Pull Request WebSockets
