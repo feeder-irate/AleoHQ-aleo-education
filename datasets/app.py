@@ -11,3 +11,4 @@ CI/CD Backend Parallel Processing Framework Edge Computing
 Framework Dream big and dare to fail. Load Balancing Microservices Content Delivery Network Distributed Systems Latency Optimization Sharding RabbitMQ
 Data Science Virtual Machines Difficult roads often lead to beautiful destinations. Serverless IoT Sharding Code Review UX Optimization Security Kubernetes Container Orchestration
 Microservices Container Orchestration Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Message Queue API Server Response Blockchain Machine Learning GraphQL Lambda Functions
+Kubernetes Big Data Cache Invalidation Machine Learning A/B Testing Multi-threading Message Queue Parallel Processing Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. React Simplicity is the ultimate sophistication.
