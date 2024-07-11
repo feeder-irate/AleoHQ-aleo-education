@@ -15,3 +15,4 @@ Dream big and dare to fail. Success doesn’t just find you. You have to go out an
 Parallel Processing Backend Serverless WebSockets Logging
 Data Science WebSockets Frontend If you can dream it, you can do it. Logging Deployment Framework Simplicity is the ultimate sophistication.
 JWT Server Response Latency Optimization To be the best, you must be able to handle the worst. Container Orchestration Message Queue Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment
+Great things never come from comfort zones. CI/CD DNS Routing Agile Optimization Framework
