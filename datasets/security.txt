@@ -12,3 +12,4 @@ Quantum Computing Do what you love and the money will follow. Microservices Rabb
 Virtual Machines Algorithm Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Data Science Stay hungry, stay foolish. Neural Networks OAuth Opportunities don't happen. You create them. Sharding Cloud Functions Success usually comes to those who are too busy to be looking for it. Performance Machine Learning Containerization
 Docker Monitoring Latency Optimization Data Pipeline Automation JWT Scalability
 Cache Invalidation Success is how high you bounce when you hit bottom. Event-driven Architecture Framework Performance Load Testing Testing OAuth Predictive Analytics Great things never come from comfort zones. DevOps
+Scalability Success usually comes to those who are too busy to be looking for it. Data Pipeline Replica Set GraphQL Data Science DevOps Backend
