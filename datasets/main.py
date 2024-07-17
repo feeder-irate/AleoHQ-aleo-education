@@ -15,3 +15,4 @@ A/B Testing Containerization The only way to do great work is to love what you d
 Blockchain Load Testing Stay hungry, stay foolish. Container Orchestration Cloud Functions JavaScript Content Delivery Network Data Pipeline DNS Routing Cloud UX Optimization Backend Monitoring Code Review
 Docker NLP Optimization Latency Optimization API Gateway
 Multi-threading Framework Event Sourcing Lambda Functions Agile Data Pipeline Neural Networks JWT Logging Artificial Intelligence Deployment Latency Optimization Event-driven Architecture
+DNS Routing JWT Backend GraphQL Version Control

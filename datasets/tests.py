@@ -11,3 +11,4 @@ Security Virtual Machines Version Control NLP Data Science Monitoring Parallel P
 Agile Deployment Cache Invalidation Event Sourcing UX Optimization Zero Downtime Deployment
 Monitoring Deployment Quantum Computing The only way to do great work is to love what you do. Agile I find that the harder I work, the more luck I seem to have. Message Queue Happiness is not something ready made. It comes from your own actions. Virtual Machines Latency Optimization If you can dream it, you can do it.
 OAuth Pull Request Neural Networks Database Indexing GraphQL Version Control NLP Frontend WebSockets Edge Computing
+Quantum Computing Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. WebSockets Automation Cloud Functions Stay hungry, stay foolish. Version Control Load Testing Event Sourcing Performance Latency Optimization Great things never come from comfort zones. Sharding
