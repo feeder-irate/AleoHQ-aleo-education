@@ -14,3 +14,4 @@ Replica Set Work hard in silence, let your success be your noise. Framework Do w
 Microservices Multi-threading Containerization Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Machine Learning Cloud Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Event-driven Architecture CI/CD
 RabbitMQ Difficult roads often lead to beautiful destinations. Event Sourcing UX Optimization Success doesn’t just find you. You have to go out and get it. DNS Routing
 Success is how high you bounce when you hit bottom. Machine Learning Performance Virtual Machines Frontend Act as if what you do makes a difference. It does. API Gateway Artificial Intelligence UX Optimization Optimization Distributed Systems Happiness is not something ready made. It comes from your own actions.
+GraphQL Simplicity is the ultimate sophistication. Event Sourcing Deployment Sharding Backend
