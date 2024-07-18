@@ -14,3 +14,4 @@ Do what you love and the money will follow. Docker Version Control Code Review O
 Security Firewalls Automation DevOps To be the best, you must be able to handle the worst. Neural Networks WebSockets Big Data Artificial Intelligence Opportunities don't happen. You create them.
 Distributed Systems Sharding Data Pipeline Deployment Lambda Functions Simplicity is the ultimate sophistication. Agile Database Dream big and dare to fail. Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Neural Networks I find that the harder I work, the more luck I seem to have. Optimization GraphQL
 To be the best, you must be able to handle the worst. Scalability Event Sourcing Automation Optimization Big Data Content Delivery Network Logging
+Data Pipeline NLP Serverless Algorithm Opportunities don't happen. You create them.
