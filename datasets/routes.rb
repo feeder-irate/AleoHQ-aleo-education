@@ -14,3 +14,4 @@ Frontend Parallel Processing NLP Blockchain Great things never come from comfort
 The only way to do great work is to love what you do. WebSockets IoT Replica Set Predictive Analytics Success is not in what you have, but who you are. Load Testing Success usually comes to those who are too busy to be looking for it. React Version Control DNS Routing
 I find that the harder I work, the more luck I seem to have. IoT Simplicity is the ultimate sophistication. Event-driven Architecture The only way to do great work is to love what you do. Replica Set
 Cloud Functions DNS Routing Do what you love and the money will follow. API Gateway Load Balancing Container Orchestration RabbitMQ The only way to do great work is to love what you do.
+Great things never come from comfort zones. OAuth Framework Version Control Deployment
