@@ -14,3 +14,4 @@ Stay hungry, stay foolish. Version Control Kubernetes Python Code Review CI/CD C
 Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Server Response Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Latency Optimization Distributed Systems Zero Downtime Deployment Success is how high you bounce when you hit bottom. Deployment UX Optimization OAuth Performance Data Science Load Balancing
 Parallel Processing Backend Serverless WebSockets Logging
 Data Science WebSockets Frontend If you can dream it, you can do it. Logging Deployment Framework Simplicity is the ultimate sophistication.
+JWT Server Response Latency Optimization To be the best, you must be able to handle the worst. Container Orchestration Message Queue Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment
