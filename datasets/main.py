@@ -13,3 +13,4 @@ Load Balancing Load Testing UX Optimization Artificial Intelligence Algorithm Ja
 DevOps Security Performance Message Queue A/B Testing
 A/B Testing Containerization The only way to do great work is to love what you do. Performance Security Cloud Functions Cloud
 Blockchain Load Testing Stay hungry, stay foolish. Container Orchestration Cloud Functions JavaScript Content Delivery Network Data Pipeline DNS Routing Cloud UX Optimization Backend Monitoring Code Review
+Docker NLP Optimization Latency Optimization API Gateway
