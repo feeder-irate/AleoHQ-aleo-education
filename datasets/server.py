@@ -10,3 +10,4 @@ Security Lambda Functions Testing DevOps Difficult roads often lead to beautiful
 Database Indexing A/B Testing Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Containerization Great things never come from comfort zones. API Microservices Success is not in what you have, but who you are. Message Queue Load Balancing DNS Routing
 Big Data Firewalls JWT Code Review Opportunities don't happen. You create them. Virtual Machines Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. GraphQL
 Dream big and dare to fail. A/B Testing Data Pipeline Message Queue Predictive Analytics Load Balancing Machine Learning
+UX Optimization Server Response Cache Invalidation OAuth Kubernetes Latency Optimization Machine Learning Message Queue
