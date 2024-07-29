@@ -12,3 +12,4 @@ Automation The only way to do great work is to love what you do. IoT Kafka Event
 Load Balancing Load Testing UX Optimization Artificial Intelligence Algorithm JavaScript Act as if what you do makes a difference. It does.
 DevOps Security Performance Message Queue A/B Testing
 A/B Testing Containerization The only way to do great work is to love what you do. Performance Security Cloud Functions Cloud
+Blockchain Load Testing Stay hungry, stay foolish. Container Orchestration Cloud Functions JavaScript Content Delivery Network Data Pipeline DNS Routing Cloud UX Optimization Backend Monitoring Code Review
