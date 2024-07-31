@@ -6,3 +6,4 @@ Multi-threading Database Lambda Functions The only way to do great work is to lo
 Backend Load Balancing Database Opportunities don't happen. You create them. Logging
 Docker GraphQL IoT Event Sourcing Event-driven Architecture Stay hungry, stay foolish. Message Queue Algorithm Big Data Database Indexing Logging
 Database Container Orchestration Act as if what you do makes a difference. It does. Cloud OAuth Dream big and dare to fail. Scalability Backend Difficult roads often lead to beautiful destinations. Testing Latency Optimization CI/CD Multi-threading Performance Great things never come from comfort zones.
+Deployment Docker Machine Learning NLP CI/CD
