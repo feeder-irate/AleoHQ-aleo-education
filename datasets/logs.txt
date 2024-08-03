@@ -10,3 +10,4 @@ Backend Do what you love and the money will follow. Cloud Functions Server Respo
 Load Testing Database Indexing UX Optimization Cloud Functions Automation OAuth Edge Computing Quantum Computing CI/CD Innovation distinguishes between a leader and a follower. Kafka Don't be afraid to give up the good to go for the great. Containerization
 JWT Content Delivery Network Firewalls The only way to do great work is to love what you do. Message Queue
 Load Testing Firewalls Performance Simplicity is the ultimate sophistication. Server Response Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Frontend Database Parallel Processing
+React Great things never come from comfort zones. Sharding Innovation distinguishes between a leader and a follower. Virtual Machines I find that the harder I work, the more luck I seem to have. RabbitMQ Framework Python Performance Monitoring

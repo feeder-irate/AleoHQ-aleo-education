@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. Security API Load Test
 OAuth Framework API Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Latency Optimization
 WebSockets Edge Computing Machine Learning Cloud Functions Load Testing Multi-threading Data Science
 Deployment Latency Optimization CI/CD Frontend Docker Python Data Pipeline
+Pull Request Parallel Processing Content Delivery Network Data Science Act as if what you do makes a difference. It does. JWT Happiness is not something ready made. It comes from your own actions. API Gateway Framework Monitoring
