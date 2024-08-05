@@ -7,3 +7,4 @@ To be the best, you must be able to handle the worst. Cache Invalidation Data Sc
 Multi-threading Load Testing DNS Routing Content Delivery Network Testing Edge Computing Stay hungry, stay foolish. CI/CD
 The only way to do great work is to love what you do. Event Sourcing API Distributed Systems Data Science Zero Downtime Deployment Blockchain
 Deployment GraphQL Big Data Quantum Computing Logging Serverless Kafka Difficult roads often lead to beautiful destinations. Testing
+CI/CD Backend Parallel Processing Framework Edge Computing
