@@ -11,3 +11,4 @@ Agile API Success is not in what you have, but who you are. DevOps Zero Downtime
 Automation The only way to do great work is to love what you do. IoT Kafka Event Sourcing
 Load Balancing Load Testing UX Optimization Artificial Intelligence Algorithm JavaScript Act as if what you do makes a difference. It does.
 DevOps Security Performance Message Queue A/B Testing
+A/B Testing Containerization The only way to do great work is to love what you do. Performance Security Cloud Functions Cloud

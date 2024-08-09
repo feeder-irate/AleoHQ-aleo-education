@@ -10,3 +10,4 @@ I find that the harder I work, the more luck I seem to have. JWT IoT Automation 
 Monitoring Message Queue Agile To be the best, you must be able to handle the worst. Security Optimization Big Data Sharding Lambda Functions Kafka
 UX Optimization IoT DNS Routing Success usually comes to those who are too busy to be looking for it. RabbitMQ
 Lambda Functions Containerization IoT API Gateway Act as if what you do makes a difference. It does. Optimization DNS Routing Event Sourcing Parallel Processing
+Stay hungry, stay foolish. Version Control Kubernetes Python Code Review CI/CD Content Delivery Network Docker API Gateway Automation Data Pipeline GraphQL WebSockets To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great.
