@@ -9,3 +9,4 @@ Cloud I find that the harder I work, the more luck I seem to have. Containerizat
 I find that the harder I work, the more luck I seem to have. JWT IoT Automation CI/CD
 Monitoring Message Queue Agile To be the best, you must be able to handle the worst. Security Optimization Big Data Sharding Lambda Functions Kafka
 UX Optimization IoT DNS Routing Success usually comes to those who are too busy to be looking for it. RabbitMQ
+Lambda Functions Containerization IoT API Gateway Act as if what you do makes a difference. It does. Optimization DNS Routing Event Sourcing Parallel Processing
