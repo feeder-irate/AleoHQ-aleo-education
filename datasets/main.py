@@ -10,3 +10,4 @@ Optimization Cloud Functions Success is how high you bounce when you hit bottom.
 Agile API Success is not in what you have, but who you are. DevOps Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. OAuth
 Automation The only way to do great work is to love what you do. IoT Kafka Event Sourcing
 Load Balancing Load Testing UX Optimization Artificial Intelligence Algorithm JavaScript Act as if what you do makes a difference. It does.
+DevOps Security Performance Message Queue A/B Testing
