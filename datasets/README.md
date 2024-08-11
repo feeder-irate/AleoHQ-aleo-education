@@ -9,3 +9,4 @@ Scalability DNS Routing Code Review Act as if what you do makes a difference. It
 Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Load Balancing Cache Invalidation Testing Lambda Functions
 Event-driven Architecture Load Balancing Edge Computing RabbitMQ Virtual Machines I find that the harder I work, the more luck I seem to have. Automation DNS Routing Database JavaScript Serverless Security
 API DevOps Zero Downtime Deployment IoT Predictive Analytics Success usually comes to those who are too busy to be looking for it. Containerization Parallel Processing Event Sourcing Pull Request React Kubernetes
+GraphQL Latency Optimization Database Indexing Sharding Testing The only way to do great work is to love what you do. Agile NLP API Gateway Success usually comes to those who are too busy to be looking for it. Message Queue Dream big and dare to fail. Neural Networks
