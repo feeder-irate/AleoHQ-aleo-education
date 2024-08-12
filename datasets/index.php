@@ -10,3 +10,4 @@ Success usually comes to those who are too busy to be looking for it. Microservi
 UX Optimization Simplicity is the ultimate sophistication. If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Frontend API Gateway
 Event-driven Architecture UX Optimization Success is not in what you have, but who you are. Security Python Content Delivery Network Neural Networks Kafka Version Control Dream big and dare to fail. Stay hungry, stay foolish.
 Containerization Scalability Artificial Intelligence Cloud Functions API Gateway Sharding RabbitMQ
+Database Zero Downtime Deployment Sharding Automation Opportunities don't happen. You create them.
