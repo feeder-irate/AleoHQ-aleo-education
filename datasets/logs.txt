@@ -8,3 +8,4 @@ Blockchain Data Pipeline IoT Zero Downtime Deployment Python GraphQL Logging Fir
 DNS Routing Cache Invalidation Logging Optimization Success is how high you bounce when you hit bottom. Monitoring Code Review GraphQL Performance Sharding
 Backend Do what you love and the money will follow. Cloud Functions Server Response Success doesn’t just find you. You have to go out and get it. GraphQL API Frontend Blockchain Great things never come from comfort zones. Machine Learning To be the best, you must be able to handle the worst.
 Load Testing Database Indexing UX Optimization Cloud Functions Automation OAuth Edge Computing Quantum Computing CI/CD Innovation distinguishes between a leader and a follower. Kafka Don't be afraid to give up the good to go for the great. Containerization
+JWT Content Delivery Network Firewalls The only way to do great work is to love what you do. Message Queue
