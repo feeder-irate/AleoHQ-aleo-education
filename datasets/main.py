@@ -8,3 +8,4 @@ API Container Orchestration Do what you love and the money will follow. Act as i
 Success is how high you bounce when you hit bottom. Server Response Database Framework Event Sourcing Cloud Kubernetes The only way to do great work is to love what you do. Automation Lambda Functions
 Optimization Cloud Functions Success is how high you bounce when you hit bottom. Database Indexing To be the best, you must be able to handle the worst. Replica Set DNS Routing Happiness is not something ready made. It comes from your own actions. Algorithm Security NLP GraphQL Latency Optimization UX Optimization Message Queue
 Agile API Success is not in what you have, but who you are. DevOps Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. OAuth
+Automation The only way to do great work is to love what you do. IoT Kafka Event Sourcing
