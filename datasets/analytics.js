@@ -8,3 +8,4 @@ Algorithm DevOps Act as if what you do makes a difference. It does. Logging Fram
 Innovation distinguishes between a leader and a follower. Security API Load Testing Sharding UX Optimization Version Control Data Science Cloud Functions Agile Optimization
 OAuth Framework API Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Latency Optimization
 WebSockets Edge Computing Machine Learning Cloud Functions Load Testing Multi-threading Data Science
+Deployment Latency Optimization CI/CD Frontend Docker Python Data Pipeline
