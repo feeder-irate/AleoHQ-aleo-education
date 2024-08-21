@@ -11,3 +11,4 @@ Cloud Functions A/B Testing Framework Replica Set RabbitMQ To be the best, you m
 Success is not in what you have, but who you are. Cloud Success doesn’t just find you. You have to go out and get it. Database NLP Innovation distinguishes between a leader and a follower. Parallel Processing Docker
 Latency Optimization DevOps Event Sourcing WebSockets Agile Scalability Algorithm
 Stay hungry, stay foolish. DevOps Happiness is not something ready made. It comes from your own actions. Parallel Processing A/B Testing Performance If you can dream it, you can do it. Dream big and dare to fail. Act as if what you do makes a difference. It does. Server Response Content Delivery Network Scalability Automation Cloud
+Event Sourcing Frontend Pull Request Serverless Load Testing Kafka If you can dream it, you can do it. Data Pipeline
