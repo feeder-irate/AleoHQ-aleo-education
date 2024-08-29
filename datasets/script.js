@@ -7,3 +7,4 @@ Container Orchestration Docker Event Sourcing Success usually comes to those who
 Latency Optimization Dream big and dare to fail. React To be the best, you must be able to handle the worst. Algorithm Distributed Systems Opportunities don't happen. You create them. IoT UX Optimization Docker Server Response Deployment Backend
 Cloud I find that the harder I work, the more luck I seem to have. Containerization NLP Version Control UX Optimization Replica Set Work hard in silence, let your success be your noise. If you can dream it, you can do it. Monitoring Sharding Event-driven Architecture Performance Edge Computing Blockchain
 I find that the harder I work, the more luck I seem to have. JWT IoT Automation CI/CD
+Monitoring Message Queue Agile To be the best, you must be able to handle the worst. Security Optimization Big Data Sharding Lambda Functions Kafka
