@@ -9,3 +9,4 @@ Latency Optimization Agile Success doesn’t just find you. You have to go out and
 Data Science Framework I find that the harder I work, the more luck I seem to have. Container Orchestration Cloud Optimization Do what you love and the money will follow. Distributed Systems Replica Set Database Scalability Logging Multi-threading
 Security Virtual Machines Version Control NLP Data Science Monitoring Parallel Processing Microservices Containerization Multi-threading React
 Agile Deployment Cache Invalidation Event Sourcing UX Optimization Zero Downtime Deployment
+Monitoring Deployment Quantum Computing The only way to do great work is to love what you do. Agile I find that the harder I work, the more luck I seem to have. Message Queue Happiness is not something ready made. It comes from your own actions. Virtual Machines Latency Optimization If you can dream it, you can do it.
