@@ -8,3 +8,4 @@ Cloud Functions Great things never come from comfort zones. To be the best, you 
 Latency Optimization Agile Success doesn’t just find you. You have to go out and get it. JavaScript Blockchain RabbitMQ Cloud Load Balancing I find that the harder I work, the more luck I seem to have.
 Data Science Framework I find that the harder I work, the more luck I seem to have. Container Orchestration Cloud Optimization Do what you love and the money will follow. Distributed Systems Replica Set Database Scalability Logging Multi-threading
 Security Virtual Machines Version Control NLP Data Science Monitoring Parallel Processing Microservices Containerization Multi-threading React
+Agile Deployment Cache Invalidation Event Sourcing UX Optimization Zero Downtime Deployment
