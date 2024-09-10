@@ -5,3 +5,4 @@ Testing The only way to do great work is to love what you do. Load Balancing Jav
 Don't be afraid to give up the good to go for the great. API Success doesn’t just find you. You have to go out and get it. Testing Event Sourcing
 Database Indexing Cloud Functions Predictive Analytics Act as if what you do makes a difference. It does. Edge Computing Multi-threading Code Review
 Artificial Intelligence Do what you love and the money will follow. Docker Neural Networks Zero Downtime Deployment Containerization Kafka JavaScript WebSockets Success is not in what you have, but who you are. Sharding Blockchain Dream big and dare to fail.
+IoT Multi-threading OAuth Great things never come from comfort zones. Database Neural Networks Load Testing I find that the harder I work, the more luck I seem to have. DNS Routing Do what you love and the money will follow. API Gateway Cloud Functions Version Control WebSockets Message Queue
