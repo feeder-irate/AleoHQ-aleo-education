@@ -7,3 +7,4 @@ Lambda Functions Stay hungry, stay foolish. Version Control The only way to do g
 Code Review Big Data IoT Cache Invalidation Work hard in silence, let your success be your noise. Framework
 Success usually comes to those who are too busy to be looking for it. GraphQL Stay hungry, stay foolish. Event-driven Architecture DNS Routing Quantum Computing Success is how high you bounce when you hit bottom. Parallel Processing Frontend UX Optimization Distributed Systems Code Review WebSockets
 A/B Testing Server Response Sharding Framework Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Opportunities don't happen. You create them. Stay hungry, stay foolish. Monitoring OAuth JavaScript Work hard in silence, let your success be your noise.
+Big Data Pull Request Virtual Machines API Gateway Event Sourcing Neural Networks Dream big and dare to fail. Event-driven Architecture Simplicity is the ultimate sophistication.
