@@ -5,3 +5,4 @@ Data Science IoT DevOps Predictive Analytics NLP Big Data
 Testing DevOps Do what you love and the money will follow. Lambda Functions Scalability Backend Act as if what you do makes a difference. It does.
 To be the best, you must be able to handle the worst. Cache Invalidation Data Science Virtual Machines Machine Learning
 Multi-threading Load Testing DNS Routing Content Delivery Network Testing Edge Computing Stay hungry, stay foolish. CI/CD
+The only way to do great work is to love what you do. Event Sourcing API Distributed Systems Data Science Zero Downtime Deployment Blockchain
