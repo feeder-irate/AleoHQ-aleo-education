@@ -7,3 +7,4 @@ Event-driven Architecture Algorithm Work hard in silence, let your success be yo
 Cloud Functions Great things never come from comfort zones. To be the best, you must be able to handle the worst. Pull Request Frontend Data Science Work hard in silence, let your success be your noise. Lambda Functions Testing Docker Latency Optimization RabbitMQ
 Latency Optimization Agile Success doesn’t just find you. You have to go out and get it. JavaScript Blockchain RabbitMQ Cloud Load Balancing I find that the harder I work, the more luck I seem to have.
 Data Science Framework I find that the harder I work, the more luck I seem to have. Container Orchestration Cloud Optimization Do what you love and the money will follow. Distributed Systems Replica Set Database Scalability Logging Multi-threading
+Security Virtual Machines Version Control NLP Data Science Monitoring Parallel Processing Microservices Containerization Multi-threading React

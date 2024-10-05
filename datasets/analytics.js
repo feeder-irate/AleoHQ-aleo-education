@@ -6,3 +6,4 @@ Database Indexing JWT Security Latency Optimization Deployment Load Testing If y
 React Agile JWT Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Kubernetes IoT
 Algorithm DevOps Act as if what you do makes a difference. It does. Logging Framework Container Orchestration Performance CI/CD The only way to do great work is to love what you do. Success is not in what you have, but who you are. Code Review NLP Great things never come from comfort zones. GraphQL Data Science
 Innovation distinguishes between a leader and a follower. Security API Load Testing Sharding UX Optimization Version Control Data Science Cloud Functions Agile Optimization
+OAuth Framework API Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Latency Optimization
