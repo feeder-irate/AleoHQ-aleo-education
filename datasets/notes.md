@@ -3,3 +3,4 @@ A/B Testing Multi-threading Lambda Functions NLP Success is not in what you have
 Quantum Computing Code Review Load Balancing Python CI/CD React Database Indexing WebSockets Firewalls Microservices Latency Optimization
 Containerization Sharding Virtual Machines Content Delivery Network Zero Downtime Deployment Neural Networks Load Testing I find that the harder I work, the more luck I seem to have. Microservices Pull Request Predictive Analytics Event-driven Architecture Cloud Functions Success doesn’t just find you. You have to go out and get it. Distributed Systems
 Multi-threading Database Lambda Functions The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Event Sourcing Latency Optimization API
+Backend Load Balancing Database Opportunities don't happen. You create them. Logging
