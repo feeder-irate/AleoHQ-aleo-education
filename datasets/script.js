@@ -6,3 +6,4 @@ Distributed Systems Big Data Deployment I find that the harder I work, the more 
 Container Orchestration Docker Event Sourcing Success usually comes to those who are too busy to be looking for it. Monitoring Data Science IoT Event-driven Architecture API Gateway JWT Sharding If you can dream it, you can do it. Agile Database
 Latency Optimization Dream big and dare to fail. React To be the best, you must be able to handle the worst. Algorithm Distributed Systems Opportunities don't happen. You create them. IoT UX Optimization Docker Server Response Deployment Backend
 Cloud I find that the harder I work, the more luck I seem to have. Containerization NLP Version Control UX Optimization Replica Set Work hard in silence, let your success be your noise. If you can dream it, you can do it. Monitoring Sharding Event-driven Architecture Performance Edge Computing Blockchain
+I find that the harder I work, the more luck I seem to have. JWT IoT Automation CI/CD
