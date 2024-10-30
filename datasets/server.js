@@ -5,3 +5,4 @@ Cloud Success is how high you bounce when you hit bottom. Data Pipeline Algorith
 DevOps WebSockets Firewalls OAuth Blockchain
 Lambda Functions Stay hungry, stay foolish. Version Control The only way to do great work is to love what you do. Pull Request Blockchain Work hard in silence, let your success be your noise.
 Code Review Big Data IoT Cache Invalidation Work hard in silence, let your success be your noise. Framework
+Success usually comes to those who are too busy to be looking for it. GraphQL Stay hungry, stay foolish. Event-driven Architecture DNS Routing Quantum Computing Success is how high you bounce when you hit bottom. Parallel Processing Frontend UX Optimization Distributed Systems Code Review WebSockets
