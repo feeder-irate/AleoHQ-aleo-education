@@ -4,3 +4,4 @@ Data Pipeline WebSockets Data Science Containerization Difficult roads often lea
 JWT Deployment JavaScript Neural Networks React
 RabbitMQ Machine Learning Deployment Docker To be the best, you must be able to handle the worst. Security DNS Routing Performance Dream big and dare to fail. WebSockets Parallel Processing Lambda Functions Success usually comes to those who are too busy to be looking for it. Server Response Python
 Load Testing Artificial Intelligence Content Delivery Network Code Review Latency Optimization Server Response Predictive Analytics A/B Testing Frontend
+Success usually comes to those who are too busy to be looking for it. CI/CD DNS Routing Predictive Analytics IoT A/B Testing Opportunities don't happen. You create them. Latency Optimization Success is how high you bounce when you hit bottom. Serverless Artificial Intelligence Testing Stay hungry, stay foolish. Pull Request
