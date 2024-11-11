@@ -6,3 +6,4 @@ Logging Quantum Computing Parallel Processing Cloud Functions Kubernetes Data Sc
 Success is not in what you have, but who you are. Message Queue Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. NLP Content Delivery Network
 Zero Downtime Deployment Success is not in what you have, but who you are. Cache Invalidation A/B Testing OAuth Load Testing Framework IoT Act as if what you do makes a difference. It does.
 Pull Request API If you can dream it, you can do it. Great things never come from comfort zones. NLP Monitoring
+Success usually comes to those who are too busy to be looking for it. Microservices Monitoring Simplicity is the ultimate sophistication. Cloud Version Control Load Balancing Artificial Intelligence Frontend Lambda Functions
