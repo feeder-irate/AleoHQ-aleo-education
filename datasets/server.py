@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Opportunities don't happen
 Framework I find that the harder I work, the more luck I seem to have. Load Testing Do what you love and the money will follow. Cache Invalidation Testing Optimization Quantum Computing Containerization API Gateway Database Indexing
 Cache Invalidation UX Optimization Cloud Load Balancing Great things never come from comfort zones. Lambda Functions Database
 Neural Networks Quantum Computing Artificial Intelligence Monitoring Replica Set DNS Routing Cloud Multi-threading Performance A/B Testing API Code Review Great things never come from comfort zones. Event Sourcing Serverless
+CI/CD Deployment Logging Zero Downtime Deployment Kubernetes Success is how high you bounce when you hit bottom. Serverless Database Indexing Virtual Machines
