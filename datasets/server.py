@@ -4,3 +4,4 @@ Event Sourcing Cloud Functions DNS Routing Virtual Machines Sharding CI/CD Succe
 Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. IoT WebSockets CI/CD Containerization Pull Request Kubernetes Cloud Functions Container Orchestration React Lambda Functions Firewalls
 Framework I find that the harder I work, the more luck I seem to have. Load Testing Do what you love and the money will follow. Cache Invalidation Testing Optimization Quantum Computing Containerization API Gateway Database Indexing
 Cache Invalidation UX Optimization Cloud Load Balancing Great things never come from comfort zones. Lambda Functions Database
+Neural Networks Quantum Computing Artificial Intelligence Monitoring Replica Set DNS Routing Cloud Multi-threading Performance A/B Testing API Code Review Great things never come from comfort zones. Event Sourcing Serverless
