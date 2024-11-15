@@ -5,3 +5,4 @@ Microservices Scalability Event-driven Architecture DNS Routing Dream big and da
 Logging Quantum Computing Parallel Processing Cloud Functions Kubernetes Data Science Don't be afraid to give up the good to go for the great.
 Success is not in what you have, but who you are. Message Queue Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. NLP Content Delivery Network
 Zero Downtime Deployment Success is not in what you have, but who you are. Cache Invalidation A/B Testing OAuth Load Testing Framework IoT Act as if what you do makes a difference. It does.
+Pull Request API If you can dream it, you can do it. Great things never come from comfort zones. NLP Monitoring
