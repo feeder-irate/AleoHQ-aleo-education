@@ -6,3 +6,4 @@ Deployment Success is not in what you have, but who you are. Act as if what you 
 Load Testing Logging Artificial Intelligence Data Pipeline Data Science Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Latency Optimization Sharding Security Multi-threading
 If you can dream it, you can do it. Lambda Functions Predictive Analytics RabbitMQ The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it.
 Algorithm Data Science Monitoring API A/B Testing GraphQL Zero Downtime Deployment Testing Lambda Functions Code Review React Cache Invalidation Version Control Big Data
+Serverless Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Predictive Analytics Lambda Functions Difficult roads often lead to beautiful destinations. Security Algorithm Kubernetes
