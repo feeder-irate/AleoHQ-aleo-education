@@ -1,2 +1,3 @@
 Lambda Functions RabbitMQ If you can dream it, you can do it. Edge Computing Act as if what you do makes a difference. It does. Backend Success is how high you bounce when you hit bottom. Performance Kafka JWT Security Python Do what you love and the money will follow. Innovation distinguishes between a leader and a follower.
 A/B Testing Multi-threading Lambda Functions NLP Success is not in what you have, but who you are. Dream big and dare to fail. Containerization
+Quantum Computing Code Review Load Balancing Python CI/CD React Database Indexing WebSockets Firewalls Microservices Latency Optimization
