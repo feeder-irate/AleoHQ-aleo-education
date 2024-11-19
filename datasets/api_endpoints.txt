@@ -5,3 +5,4 @@ Innovation distinguishes between a leader and a follower. RabbitMQ Backend WebSo
 Deployment Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Server Response Difficult roads often lead to beautiful destinations. Frontend Zero Downtime Deployment
 Load Testing Logging Artificial Intelligence Data Pipeline Data Science Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Latency Optimization Sharding Security Multi-threading
 If you can dream it, you can do it. Lambda Functions Predictive Analytics RabbitMQ The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it.
+Algorithm Data Science Monitoring API A/B Testing GraphQL Zero Downtime Deployment Testing Lambda Functions Code Review React Cache Invalidation Version Control Big Data
