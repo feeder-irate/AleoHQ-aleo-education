@@ -5,3 +5,4 @@ Performance Algorithm Code Review Version Control Big Data Load Testing JWT Java
 Cloud Functions Microservices GraphQL Kafka If you can dream it, you can do it. Lambda Functions A/B Testing Pull Request Zero Downtime Deployment Optimization WebSockets Kubernetes Event Sourcing Automation
 Cloud Python Dream big and dare to fail. Scalability Cloud Functions Docker Distributed Systems CI/CD Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them.
 Opportunities don't happen. You create them. Database Testing Big Data If you can dream it, you can do it. NLP UX Optimization Performance Version Control Cloud Functions RabbitMQ DevOps Success is how high you bounce when you hit bottom.
+Neural Networks Database Kubernetes Act as if what you do makes a difference. It does. Latency Optimization Monitoring The only way to do great work is to love what you do. Replica Set
