@@ -1,1 +1,2 @@
 Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Cloud Database Indexing Virtual Machines IoT WebSockets Logging Artificial Intelligence Edge Computing Quantum Computing
+GraphQL Act as if what you do makes a difference. It does. Framework Pull Request Machine Learning Agile Optimization Cache Invalidation Work hard in silence, let your success be your noise. Cloud Functions Firewalls Security
