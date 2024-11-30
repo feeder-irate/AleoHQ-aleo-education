@@ -4,3 +4,4 @@ Testing Replica Set JavaScript Zero Downtime Deployment Deployment
 Cloud Functions Automation Performance Containerization Virtual Machines I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Pull Request IoT OAuth Difficult roads often lead to beautiful destinations.
 Version Control Zero Downtime Deployment Load Balancing JavaScript Act as if what you do makes a difference. It does. NLP Optimization Monitoring Container Orchestration Firewalls
 Multi-threading Monitoring Serverless Code Review CI/CD Algorithm Event-driven Architecture Predictive Analytics NLP Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Parallel Processing Version Control
+If you can dream it, you can do it. Act as if what you do makes a difference. It does. Neural Networks API Pull Request DevOps A/B Testing Deployment
