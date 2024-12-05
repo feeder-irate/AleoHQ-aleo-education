@@ -1,3 +1,4 @@
 Blockchain Latency Optimization Lambda Functions Load Testing Security Python Event-driven Architecture Quantum Computing API Gateway Big Data Framework React Database Indexing To be the best, you must be able to handle the worst.
 Do what you love and the money will follow. NLP Sharding RabbitMQ Automation Success is not in what you have, but who you are. Frontend Cloud OAuth Data Pipeline Innovation distinguishes between a leader and a follower. Agile
 Distributed Systems Opportunities don't happen. You create them. Dream big and dare to fail. JWT Deployment Firewalls Event Sourcing Big Data IoT
+Docker Success usually comes to those who are too busy to be looking for it. Optimization Firewalls Agile CI/CD DevOps Kafka Do what you love and the money will follow. Quantum Computing To be the best, you must be able to handle the worst. Container Orchestration A/B Testing Load Testing Backend
