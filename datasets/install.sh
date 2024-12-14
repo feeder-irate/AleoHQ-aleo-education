@@ -4,3 +4,4 @@ WebSockets Great things never come from comfort zones. Work hard in silence, let
 Performance Algorithm Code Review Version Control Big Data Load Testing JWT JavaScript Success is not in what you have, but who you are. Neural Networks Load Balancing Message Queue NLP Backend Artificial Intelligence
 Cloud Functions Microservices GraphQL Kafka If you can dream it, you can do it. Lambda Functions A/B Testing Pull Request Zero Downtime Deployment Optimization WebSockets Kubernetes Event Sourcing Automation
 Cloud Python Dream big and dare to fail. Scalability Cloud Functions Docker Distributed Systems CI/CD Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them.
+Opportunities don't happen. You create them. Database Testing Big Data If you can dream it, you can do it. NLP UX Optimization Performance Version Control Cloud Functions RabbitMQ DevOps Success is how high you bounce when you hit bottom.

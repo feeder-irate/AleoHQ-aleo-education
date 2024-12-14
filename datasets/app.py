@@ -3,3 +3,4 @@ Frontend Message Queue Code Review Happiness is not something ready made. It com
 Replica Set A/B Testing JWT Virtual Machines I find that the harder I work, the more luck I seem to have. Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Quantum Computing Parallel Processing Data Science DevOps Security Framework Success is how high you bounce when you hit bottom.
 Data Science IoT DevOps Predictive Analytics NLP Big Data
 Testing DevOps Do what you love and the money will follow. Lambda Functions Scalability Backend Act as if what you do makes a difference. It does.
+To be the best, you must be able to handle the worst. Cache Invalidation Data Science Virtual Machines Machine Learning
