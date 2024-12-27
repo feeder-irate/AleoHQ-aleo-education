@@ -3,3 +3,4 @@ To be the best, you must be able to handle the worst. React Success doesn’t just
 WebSockets Great things never come from comfort zones. Work hard in silence, let your success be your noise. UX Optimization A/B Testing Docker React Edge Computing Difficult roads often lead to beautiful destinations. Agile Containerization GraphQL NLP Big Data
 Performance Algorithm Code Review Version Control Big Data Load Testing JWT JavaScript Success is not in what you have, but who you are. Neural Networks Load Balancing Message Queue NLP Backend Artificial Intelligence
 Cloud Functions Microservices GraphQL Kafka If you can dream it, you can do it. Lambda Functions A/B Testing Pull Request Zero Downtime Deployment Optimization WebSockets Kubernetes Event Sourcing Automation
+Cloud Python Dream big and dare to fail. Scalability Cloud Functions Docker Distributed Systems CI/CD Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them.
