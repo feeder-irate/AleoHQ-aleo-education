@@ -1,1 +1,2 @@
 I find that the harder I work, the more luck I seem to have. Version Control JavaScript WebSockets Event Sourcing Cache Invalidation
+Containerization Simplicity is the ultimate sophistication. Load Balancing Database Indexing I find that the harder I work, the more luck I seem to have. Cloud Functions Monitoring Neural Networks
