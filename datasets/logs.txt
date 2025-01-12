@@ -1,1 +1,2 @@
 Version Control If you can dream it, you can do it. Message Queue Logging Artificial Intelligence Security Pull Request To be the best, you must be able to handle the worst. Cache Invalidation Event Sourcing
+Event-driven Architecture Parallel Processing Virtual Machines Cloud Functions Big Data Happiness is not something ready made. It comes from your own actions. API Gateway Data Science Docker RabbitMQ Code Review Neural Networks Logging
