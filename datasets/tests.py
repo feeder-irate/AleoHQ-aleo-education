@@ -1,0 +1,1 @@
+Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Content Delivery Network Message Queue Dream big and dare to fail. Success is not in what you have, but who you are. Monitoring Neural Networks Cloud Performance Parallel Processing
