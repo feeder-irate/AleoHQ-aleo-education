@@ -1,1 +1,2 @@
 Frontend Don't be afraid to give up the good to go for the great. Parallel Processing Multi-threading Python Docker Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Deployment
+Latency Optimization Cloud Database Indexing Do what you love and the money will follow. Great things never come from comfort zones. Predictive Analytics Framework Serverless DNS Routing Microservices Success is how high you bounce when you hit bottom. Automation CI/CD Success usually comes to those who are too busy to be looking for it.
